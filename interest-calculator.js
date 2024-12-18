@@ -1,1 +1,1 @@
-
+const interestRate = 0;
